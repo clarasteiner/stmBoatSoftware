@@ -1,0 +1,6 @@
+DO2Saturation,402-771,x,WirelessODOSensor
+Temperature,402-771,x,WirelessTemperatureSensor
+pH,123,x,WirelessAdaptiveHead
+ISENitrate,123,x,WirelessAdaptiveHead
+Conductivity,123,x,WirelessConductivity
+ISEAmmonium,123,x,WirelessAdaptiveHead
